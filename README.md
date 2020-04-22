@@ -1,5 +1,3 @@
-# patterns
-Lab works
 
 <h1> Installation </h1>
 <h2>Locally in your project. </h2>
