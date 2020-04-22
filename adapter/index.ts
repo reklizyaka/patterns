@@ -2,18 +2,6 @@ interface Parser {
   parse(str: string): Order;
 }
 
-// class Client {
-//   private parser: Parser;
-
-//   constructor(parser: Parser) {
-//     this.parser = parser;
-//   }
-
-//   public execute(parser: Parser) {
-//     parser.parse("Hello world!");
-//   }
-// }
-
 class Order {
   constructor(
     public firstName: string,
